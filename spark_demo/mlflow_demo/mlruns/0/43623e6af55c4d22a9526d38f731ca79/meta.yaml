@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kevinho/hohoho/temp/hoho_python_bigdata_ml/spark_demo/mlflow_demo/mlruns/0/43623e6af55c4d22a9526d38f731ca79/artifacts
+end_time: 1664631057992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 43623e6af55c4d22a9526d38f731ca79
+run_uuid: 43623e6af55c4d22a9526d38f731ca79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1664631026775
+status: 3
+tags: []
+user_id: kevinho
