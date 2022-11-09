@@ -113,3 +113,4 @@ spark_demo/sparkapp/target/streams/compile/scalacOptions/_global/streams/out
 spark_demo/sparkapp/target/streams/compile/unmanagedClasspath/_global/streams/export
 spark_demo/sparkapp/target/streams/compile/unmanagedClasspath/_global/streams/out
 spark_demo/sparkapp/target/streams/compile/unmanagedJars/_global/streams/export
+nlp/data/FashionMNIST/
