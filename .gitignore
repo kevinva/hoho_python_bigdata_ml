@@ -115,3 +115,6 @@ spark_demo/sparkapp/target/streams/compile/unmanagedClasspath/_global/streams/ou
 spark_demo/sparkapp/target/streams/compile/unmanagedJars/_global/streams/export
 nlp/data/FashionMNIST/
 nlp/output/best_model_state_sentiment_analysis.bin
+nlp/AIWIN_互联网舆情识别/bert-ner.pt
+data_analysis/American_Express_Default_Prediction/data/
+hoho_cu/data/
