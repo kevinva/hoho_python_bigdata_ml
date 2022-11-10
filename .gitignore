@@ -114,3 +114,4 @@ spark_demo/sparkapp/target/streams/compile/unmanagedClasspath/_global/streams/ex
 spark_demo/sparkapp/target/streams/compile/unmanagedClasspath/_global/streams/out
 spark_demo/sparkapp/target/streams/compile/unmanagedJars/_global/streams/export
 nlp/data/FashionMNIST/
+nlp/output/best_model_state_sentiment_analysis.bin
