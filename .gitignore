@@ -124,3 +124,4 @@ hoho_cu/catboost_info/time_left.tsv
 hoho_cu/catboost_info/learn/events.out.tfevents
 hoho_cu/catboost_info/tmp/cat_feature_index.c006e777-dc7384fa-9604aedf-68ee0631.tmp
 hoho_cu/catboost_info/tmp/cat_feature_index.f8fc02c4-92670205-9c6d2693-f4fc953.tmp
+hoho_cu/output/cu_best_model_sentiment_analysis.bin
