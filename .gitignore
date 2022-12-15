@@ -114,3 +114,5 @@ spark_demo/sparkapp/target/streams/compile/unmanagedClasspath/_global/streams/ex
 spark_demo/sparkapp/target/streams/compile/unmanagedClasspath/_global/streams/out
 spark_demo/sparkapp/target/streams/compile/unmanagedJars/_global/streams/export
 jieba_model.cpython-39.pyc
+nlp/.ipynb_checkpoints/bert2bert_demo-checkpoint.ipynb
+nlp/.ipynb_checkpoints/question_sentence_classification-checkpoint.ipynb
