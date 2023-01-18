@@ -126,3 +126,6 @@ hoho_cu/catboost_info/tmp/cat_feature_index.c006e777-dc7384fa-9604aedf-68ee0631.
 hoho_cu/catboost_info/tmp/cat_feature_index.f8fc02c4-92670205-9c6d2693-f4fc953.tmp
 hoho_cu/output/cu_best_model_sentiment_analysis.bin
 nlp/.ipynb_checkpoints/abnomaly_detection_demo-checkpoint.ipynb
+data_science/flask_demo/__pycache__/jieba_model.cpython-39.pyc
+nlp/.ipynb_checkpoints/bert2bert_demo-checkpoint.ipynb
+nlp/.ipynb_checkpoints/question_sentence_classification-checkpoint.ipynb
