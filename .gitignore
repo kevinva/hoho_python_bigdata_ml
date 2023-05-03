@@ -129,7 +129,4 @@ nlp/.ipynb_checkpoints/abnomaly_detection_demo-checkpoint.ipynb
 data_science/flask_demo/__pycache__/jieba_model.cpython-39.pyc
 nlp/.ipynb_checkpoints/bert2bert_demo-checkpoint.ipynb
 nlp/.ipynb_checkpoints/question_sentence_classification-checkpoint.ipynb
-*.pyc
-nlp/.ipynb_checkpoints/anomaly-detection-demo2-checkpoint.ipynb
-nlp/.ipynb_checkpoints/anomaly-detection-demo-checkpoint.ipynb
-nlp/.ipynb_checkpoints/train_question_sentences-checkpoint.ipynb
+nlp/prompt_engineering/.ipynb_checkpoints
