@@ -133,3 +133,4 @@ nlp/prompt_engineering/.ipynb_checkpoints
 nlp/.ipynb_checkpoints/
 nlp/RLHF/__pycache__/
 nlp/RLHF/trl/__pycache__/
+data/criteo/
