@@ -135,3 +135,6 @@ nlp/RLHF/__pycache__/
 nlp/RLHF/trl/__pycache__/
 data/criteo/
 data_science/attribution_analysis/.ipynb_checkpoints/hoho-multi-channel-attribution-checkpoint.ipynb
+data_science/attribution_analysis/Attention-RNN-Multi-Touch-Attribution-main/.ipynb_checkpoints/FFDNA_demo-checkpoint.ipynb
+data_science/attribution_analysis/Attention-RNN-Multi-Touch-Attribution-main/.ipynb_checkpoints/process_data_demo-checkpoint.ipynb
+*.pyc
