@@ -139,3 +139,5 @@ data_science/attribution_analysis/Attention-RNN-Multi-Touch-Attribution-main/.ip
 data_science/attribution_analysis/Attention-RNN-Multi-Touch-Attribution-main/.ipynb_checkpoints/process_data_demo-checkpoint.ipynb
 *.pyc
 data_science/attribution_analysis/.ipynb_checkpoints/hoho_shapley_value_attribution-checkpoint.ipynb
+llm/.ipynb_checkpoints/langchain_demo-checkpoint.ipynb
+llm/.ipynb_checkpoints/test-checkpoint.py
